@@ -14,6 +14,42 @@ image: estates/src/images/Lor_gascoigne2.jpg
 ---
 ![Gascoigne estate image](src/images/Lor_gascoigne2.jpg)
 
+Gascoigne Estate was composed of an East and West section, which counted 2 342 homes combined. This estate is being demolished as part of the Area Policy SPP1(Strategic Planning Policy) of the Barking and Dagenham Local Plan 2020-2037. The eastern part of the estate was approved for demolition by the GLA in 2015 and has already completed 3 of 4 redevelopment phases, providing 1 193 new units (with 474 still to be provided in the subsequent phase). The western part of the estate received planning permission in 2018 and has since completed two redevelopment phases with 586 new units. Some residents of the old Gascoigne Estate continue to live on the estate. Overall, there is expected to be a minimum of 2,793 new units, or an increase of 469 units. The redevelopment is expected to be completed by 2032. 
+
+* The estate’s 2,324 homes are being demolished (with most already having been demolished).
+  * The minimum capacity indicated in the Site Allocation Proforma is 2,793 new units (equivalent to an increase of 469 new units)
+* 'Right to return' only if they can afford to pay the rent in one of the new shared-ownership flats.
+* Mayor's own estate regeneration policy requiring no net loss of social rented housing.
+* Big Picture Neighborhood Plan for Gascoigne
+  * Contains design principles relating to the Gascoigne Estate, including how it connects to the surrounding area.
+* It is part of the Area Policy SPP1 of the Barking and Dagenham Local Plan 2020-2037.
+  * Area to be redeveloped with new homes, shopping, leisure and workspace facilities.
+  * It will establish a claimed “clearly defined hierarchy of public, private and semi-private outdoor spaces”, but it is not specified if this means a decrease of public spaces. 
+* As of July 2025, there are still residents living in the Old Gascoigne Estate.
+
+ 
+
+Gascoigne East 
+•	Demolition of Gascoigne East was approved by the GLA in September 2015.
+o	Phase 1: completed in 2019 (421 new units)
+o	Phase 2 completed in 2023 (546 new units)
+o	Phase 3 A: completed in Spring 2024 (226 new units)
+o	Phase 3 B is underway, construction started in 2023.
+	Phase 3B and 4 will provide 474 new homes
+•	Overall, developers want to build 1943 units between 2020 and 2032, with 900 expected to be complete by 2025. 
+
+Gascoigne West
+•	Outline planning permission for 850 new homes in 2018.
+•	179 homes approved for demolition in December 2018, with expected 671 homes (40% claimed to be below market rents and shared ownership homes).
+	Below market rents can be up to 80% of market rent
+•	Phase 1: demolition began in 2020 and construction of 200 new homes was completed in  2022.
+  
+•	Phase 2: completed in 2024 with 386 homes, 60% with affordable rent.
+
+•	Overall, developers want to build 850 units between 2020 and 2032, with 600 expected to be complete by the end of 2025.
+
+
+
 In Dec 2018, the Mayor approved the demolition of 179 homes on the latest phase of Barking & Dagenham's Gascoigne estate regeneration, to be replaced by 850 new homes of which 78 at 'London Affordabe Rent' (defined as up to 80% market rent). Leaseholders have the 'right to return'  only if they can afford to pay the rent in one of the new shared-ownership flats. 
 
 The Mayor's [planning report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/gascoigne-estate-west) approves the demolition of 179 homes on this latest phase of the scheme, Gascoigne estate West - the [east side of the estate](/casestudies/gascoigne/) having been approved for demolition in September 2015.
